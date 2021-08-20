@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+html,
+body { height: 100%;
+}
+.parent {
+    height: 200px;
+    background: #CCCCCC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child {
+    background-color: #FFFF00;
+    width: 100px;
+    height: 100px;
+}
